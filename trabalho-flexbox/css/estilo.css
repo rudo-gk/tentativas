@@ -1,0 +1,66 @@
+h1{
+    background-color: rgb(241, 57, 57);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 8px;
+}
+
+h3 {
+    text-align: center;
+}
+    
+
+
+body {
+    background-image: url("../imagens/imagens-background/jornal.avif");
+    
+}
+
+p {
+    font-size: 15px;
+    
+     
+}
+
+
+
+.projeto {
+    background-color: rgb(234, 234, 234); 
+    border:solid 1px black;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease; 
+    display: inline-block;
+}
+
+.projeto:hover {
+    background-color:  rgb(241, 57, 57); 
+    cursor: pointer; 
+}
+
+button {
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+
+}
+
+button:hover {
+    background-color:  rgb(255, 255, 255); 
+    cursor: pointer; 
+    color: black;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+   
+
+}
+
